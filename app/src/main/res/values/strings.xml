@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tugas6</string>
+    <string name="detail">detail</string>
+    <string name="makanan">Makanan</string>
+    <string name="makanan_dan_minuman_kekinian">MAKANAN DAN MINUMAN KEKINIAN</string>
+    <string name="food">food</string>
+    <string name="todo">TODO</string>
+</resources>
